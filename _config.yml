@@ -4,7 +4,7 @@ exclude:
   - README.md
 
 name: ZZP's Site
-host: zzppbs.githup.io
+host: zzppbs.github.com
 desc: 方向胜于速度.
 
 custom:
